@@ -2,10 +2,7 @@ package app;
 
 public class Main {
 
-
-    private static final double MILES_TO_KM = 1.60934;
-    private static final double KM_TO_MILES = 0.621371;
-
+    
     public static void main(String[] args) {
         System.out.println("Temperature Converter App");
         System.out.println("Celsius ↔ Fahrenheit");
